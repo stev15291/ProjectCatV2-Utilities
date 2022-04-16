@@ -333,7 +333,7 @@ function Library:Create(text)
 			TextBoxText.Position = UDim2.new(0.0299999993, 0, 0.161290318, 0)
 			TextBoxText.Size = UDim2.new(0, 206, 0, 21)
 			TextBoxText.Font = Enum.Font.Gotham
-			TextBoxText.Text = "How Many Robux?"
+			TextBoxText.Text = namegfrsjghf
 			TextBoxText.TextColor3 = Color3.fromRGB(255, 255, 255)
 			TextBoxText.TextSize = 14.000
 			TextBoxText.TextXAlignment = Enum.TextXAlignment.Left
