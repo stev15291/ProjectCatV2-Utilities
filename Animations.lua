@@ -537,9 +537,6 @@ playAnimation("idle", 0.1, Humanoid)
 pose = "Standing"
 
 while Figure.Parent ~= nil do
-	if _G.ScriptStop == true then
-		break
-	end
 	local _, time = wait(0.1)
 	move(time)
 end
